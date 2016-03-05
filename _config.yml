@@ -1,0 +1,28 @@
+name: gabe
+favicon: null
+layout_spectrum: 0.40956703945994377
+typography_spectrum: 0.9806219446472824
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.00789287919178605
+  lightness: 0.42536558769643307
+  saturation: 0.49591617309488356
+  rhythmicContrast: 0.8937993519939482
+purpose: []
