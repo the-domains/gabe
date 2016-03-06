@@ -1,6 +1,6 @@
 name: gabe
 favicon: null
-layout_spectrum: 0.42153
+layout_spectrum: 0.35464
 typography_spectrum: 1
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#787878'
     - '#bcbcc4'
     - '#282828'
-  brandStrength: 0.5
+  brandStrength: 1
   lightness: 0.4375
-  saturation: 0.49591617309488356
-  rhythmicContrast: 0.75
+  saturation: 0.9375
+  rhythmicContrast: 0.5
 purpose: []
